@@ -1,3 +1,3 @@
 # test
 
-echo merhaba
+echo merhaba bugün 1 nisan
